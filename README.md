@@ -1,2 +1,3 @@
 # Projects
-include innovation and practice
+Includes innovation and practice.
+Everytime try something new
