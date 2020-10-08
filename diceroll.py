@@ -4,8 +4,7 @@ import random
 def main():
     roll_again="yes"
     while roll_again=="yes" or roll_again=="y" or roll_again=="Yes" or roll_again=="Y":
-        dice1=0
-        dice2=0
+       
    
         dice1=dice_roll()
         dice2=dice_roll()
